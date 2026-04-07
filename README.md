@@ -1,4 +1,4 @@
-# bbd_limitter
+# bbd_limitter（未完成）
 賞味/消費期限を管理・リマインドする Android アプリ（Jetpack Compose）です。
 
 ## 実装済み機能
